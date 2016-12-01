@@ -1,0 +1,5 @@
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Programacion de Aplicaciones Web\WebSQLDataSet\WebSQLDataSet\bin\WebSQLDataSet.dll
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Programacion de Aplicaciones Web\WebSQLDataSet\WebSQLDataSet\bin\WebSQLDataSet.pdb
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Programacion de Aplicaciones Web\WebSQLDataSet\WebSQLDataSet\obj\Debug\WebSQLDataSet.csprojResolveAssemblyReference.cache
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Programacion de Aplicaciones Web\WebSQLDataSet\WebSQLDataSet\obj\Debug\WebSQLDataSet.dll
+C:\Users\rperez\Documents\Visual Studio 2012\Projects\Programacion de Aplicaciones Web\WebSQLDataSet\WebSQLDataSet\obj\Debug\WebSQLDataSet.pdb
