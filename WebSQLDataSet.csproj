@@ -61,10 +61,18 @@
     <Content Include="App_Data\TiendaBD_log.ldf">
       <DependentUpon>TiendaBD.mdf</DependentUpon>
     </Content>
+    <Content Include="ClientesWF.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClientesWF.aspx.cs">
+      <DependentUpon>ClientesWF.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ClientesWF.aspx.designer.cs">
+      <DependentUpon>ClientesWF.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -72,6 +80,7 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Logica\ClientesClass.cs" />
     <Compile Include="PrincipalSite.Master.cs">
       <DependentUpon>PrincipalSite.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
